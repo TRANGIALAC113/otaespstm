@@ -1,2 +1,2 @@
-3
+2|link_raw_file_bin
 
