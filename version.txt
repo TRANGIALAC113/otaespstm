@@ -1,1 +1,1 @@
-3|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/test.bin
+2|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/test.bin
