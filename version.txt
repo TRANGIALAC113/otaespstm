@@ -1,2 +1,1 @@
-2|link_raw_file_bin
-
+2|https://raw.githubusercontent.com/otaespstm/main
