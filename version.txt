@@ -1,1 +1,1 @@
-1|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin
+4|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin
