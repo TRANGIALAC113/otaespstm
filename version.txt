@@ -1,1 +1,1 @@
-7|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin
+2|link_esp.bin|1|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin|15:30 
