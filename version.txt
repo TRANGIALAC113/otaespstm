@@ -1,1 +1,1 @@
-1|link_esp.bin|4|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin|01:49
+1|link_esp.bin|4|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin|01:54
