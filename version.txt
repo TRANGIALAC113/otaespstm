@@ -1,1 +1,1 @@
-4|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/firmware.bin|5|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin|01:08
+4|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/firmware.bin|6|https://raw.githubusercontent.com/TRANGIALAC113/otaespstm/main/uart2.bin|01:09
